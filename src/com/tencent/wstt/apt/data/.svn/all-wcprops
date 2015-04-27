@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/pub/pub_APT_rep/!svn/ver/156/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data
+END
+Jiffies.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/Jiffies.java
+END
+JiffiesStatisticsDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/JiffiesStatisticsDataInfo.java
+END
+TestTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/TestTask.java
+END
+AbstractStatisticsDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/AbstractStatisticsDataInfo.java
+END
+APTState.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/APTState.java
+END
+PMAPDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/PMAPDataItem.java
+END
+PieChartDataItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/PieChartDataItem.java
+END
+Constant.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pub/pub_APT_rep/!svn/ver/156/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/Constant.java
+END
+DeviceInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/DeviceInfo.java
+END
+PkgInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/PkgInfo.java
+END
+TestSence.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/TestSence.java
+END
+TestTaskManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/TestTaskManager.java
+END
+GeneralStatisticsDataInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/GeneralStatisticsDataInfo.java
+END
+PCInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/data/PCInfo.java
+END

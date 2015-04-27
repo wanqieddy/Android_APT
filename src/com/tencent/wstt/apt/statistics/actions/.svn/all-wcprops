@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/statistics/actions
+END
+CopyAllFromTreeViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/statistics/actions/CopyAllFromTreeViewAction.java
+END
+CopySelectedItemsFromTreeViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/statistics/actions/CopySelectedItemsFromTreeViewAction.java
+END
+CopyAllFromTableViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/statistics/actions/CopyAllFromTableViewAction.java
+END
+CopySelectedItemsFromTableViewAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/pub/pub_APT_rep/!svn/ver/153/APT_proj/trunk/APT_Eclipse_Plugin/src/com/tencent/wstt/apt/statistics/actions/CopySelectedItemsFromTableViewAction.java
+END
